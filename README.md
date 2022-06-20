@@ -1,2 +1,2 @@
-# react_tutorial
+# react_todo
 Created with CodeSandbox
