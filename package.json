@@ -1,7 +1,7 @@
 {
-  "name": "react-todo",
+  "name": "react-tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "udemy react tutorial",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
